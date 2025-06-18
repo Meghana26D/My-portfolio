@@ -75,12 +75,6 @@ End-to-end BI solution to improve customer KPIs and reporting for Google Fiber.
 
 ---
 
-## 📫 Contact
-
-[Email](mailto:meghanacharlapally1@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/meghana-charlapally-44a849258/)  
-[Tableau Public](https://public.tableau.com/app/profile/meghana13/vizzes)
-
 ---
 📫 Contact
 
