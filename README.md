@@ -23,17 +23,6 @@ Hi, I'm Meghana Google-certified BI Analyst with 2.5+ years of experience in clo
 <!-- Navigation Bar End -->
 
 <!-- Add this style block or put the CSS in your stylesheet for hover/active effects -->
-<style>
-nav ul li a:hover,
-nav ul li a.active {
-  color: #1abc9c !important;
-  border-bottom: 2px solid #1abc9c;
-  transition: 0.2s;
-}
-body {
-  padding-top: 60px; /* Ensures content is not hidden under navbar */
-}
-</style>
 
 ---
 
