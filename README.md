@@ -91,7 +91,7 @@ End-to-end BI solution to improve customer KPIs and reporting for Google Fiber.
       <!-- Let's Have Coffee -->
       <div style="background:#232323; padding:1em 2em; border-radius:8px; flex:1;">
         <h3>Wanna chat? Just schedule a meeting!</h3>
-        <a href="https://calendly.com/your-schedule" target="_blank" style="color:#fff; background:#1abc9c; padding:0.5em 1.2em; border-radius:5px; text-decoration:none;">Schedule to chat</a>
+        <a href="https://calendly.com/meghanacharlapally1/30min?preview_source=et_card&month=2025-06"color:#fff; background:#1abc9c; padding:0.5em 1.2em; border-radius:5px; text-decoration:none;">Schedule to chat</a>
       </div>
       <!-- Social Profiles -->
       <div style="background:#232323; padding:1em 2em; border-radius:8px; flex:1;">
