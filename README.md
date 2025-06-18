@@ -9,14 +9,31 @@
 Hi, I'm Meghana Google-certified BI Analyst with 2.5+ years of experience in cloud analytics, dashboard development, and business problem-solving. I’m passionate about transforming data into actionable insights and delivering innovative, human-centered analytics solutions.
 
 ---
+<!-- Navigation Bar Start -->
+<nav style="width:100%; background:#111; padding:0.5em 0; position:fixed; top:0; left:0; z-index:100;">
+  <ul style="display:flex; justify-content:flex-end; gap:2em; list-style:none; margin:0; padding:0 4em;">
+    <li><a href="#home" style="color:#fff; text-decoration:none; font-size:1.1em; padding:0.3em 0.8em;">Home</a></li>
+    <li><a href="#about" style="color:#fff; text-decoration:none; font-size:1.1em; padding:0.3em 0.8em;">About</a></li>
+    <li><a href="#resume" style="color:#fff; text-decoration:none; font-size:1.1em; padding:0.3em 0.8em;">Resume</a></li>
+    <li><a href="#softskills" style="color:#fff; text-decoration:none; font-size:1.1em; padding:0.3em 0.8em;">Soft Skills</a></li>
+    <li><a href="#portfolio" style="color:#fff; text-decoration:none; font-size:1.1em; padding:0.3em 0.8em;">Portfolio</a></li>
+    <li><a href="#contact" style="color:#fff; text-decoration:none; font-size:1.1em; padding:0.3em 0.8em;">Contact</a></li>
+  </ul>
+</nav>
+<!-- Navigation Bar End -->
 
-## 🏷️ Navigation
-
-- [About](#about)
-- [Resume](#resume)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+<!-- Add this style block or put the CSS in your stylesheet for hover/active effects -->
+<style>
+nav ul li a:hover,
+nav ul li a.active {
+  color: #1abc9c !important;
+  border-bottom: 2px solid #1abc9c;
+  transition: 0.2s;
+}
+body {
+  padding-top: 60px; /* Ensures content is not hidden under navbar */
+}
+</style>
 
 ---
 
